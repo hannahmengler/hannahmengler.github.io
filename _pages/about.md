@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm working on fighting disinformation with [Global Disinformation Index](disinformationindex.org) and the [Assembly: Disinformation](https://www.bkmla.org/) group. Previously, I was a data scientist at [Duo Labs](https://duo.com/labs) working on authentication and modeling user behavior. I'm interested in the online ecosystem: how it's changing us, how we're changing it, and increasingly, the politics and policies that govern it.
+Book publisher at [Doubleday](http://knopfdoubleday.com/), an imprint of [Penguin Random House](https://www.penguinrandomhouse.com/). Passionate about finding new ways to deliver stories into the hands of their perfect reader. Working to make publishing a more diverse and equitable industry. New York City is my forever home.
 
-I've lived in the Washington D.C. Metro area and the Bay Area, but my home is in Austin, Texas.
+Here, you can find all the campaigns I've worked on ([Title Marketing](https://hannahmengler.github.io/)), some projects I'm especially excited about ([Special Projects](https://hannahmengler.github.io/)), and my favorite books. 
