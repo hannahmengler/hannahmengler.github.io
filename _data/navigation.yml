@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Projects"
+    url: /projects/   
+
+  - title: "Press"
+    url: /press/
+
+  - title: "Reading List"
+    url: /reading/
+
+  - title: "CV"
+    url: /cv/
+
