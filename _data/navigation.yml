@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/   
+  - title: "Title Marketing"
+    url: /titles/   
 
-  - title: "Press"
-    url: /press/
+  - title: "Special Projects"
+    url: /projects/
 
-  - title: "Reading List"
-    url: /reading/
+  - title: "Favorite Books"
+    url: /books/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
 
