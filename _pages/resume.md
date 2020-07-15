@@ -18,7 +18,7 @@ redirect_from:
   * Serve on Online Sales Optimization Task Force.
 
 * **Marketing Assistant**, Doubleday (New York, NY) _Spring 2017 - Fall 2019_
-  * Write book flap copy, research consumer trends, and direct multiple social media channels to connect with the book publisher's 300,000+ conbined followers.
+  * Write book flap copy, research consumer trends, and direct multiple social media channels to connect with the book publisher's 300,000+ combined followers.
   * Coordinate with authors, agents, and vendors to maximize the reach of book ads.
   * Directly support the Executive Vice President of Publishing through scheduling, tracking expenses, and communicating with external parties.
 
