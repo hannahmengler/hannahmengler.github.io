@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maggie Engler"
+title                    : "Hannah Engler"
 title_separator          : "-"
-name                     : &name "Maggie Engler"
+name                     : &name "Hannah Engler"
 description              : &description "personal description"
-url                      : https://mrengler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hannahmengler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mrengler/mrengler.github.io"
+repository               : "hannahmengler/hannahmengler.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mrengler"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "maggie-engler-717852132"
+  linkedin         : ""
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@maggieengler"
+  twitter          : "@caffeinehannah"
   vine             :
   weibo            :
   xing             :
