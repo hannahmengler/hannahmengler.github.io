@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Reading List"
-permalink: /reading/
+title: "Favorite Books"
+permalink: /books/
 author_profile: true
 redirect_from:
-  - /read
+  - /reading
 ---
 
 {% include base_path %}
