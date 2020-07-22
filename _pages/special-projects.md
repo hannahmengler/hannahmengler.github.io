@@ -15,10 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Online Sales Optimization Task Force
+## _Online Sales Optimization Task Force_
 
-More details to come.
+In the spring of 2020 I was selected to join a special task force dedicated to optimizing online book sales while bookstores were closed due to the COVID-19 pandemic. The task force brought together colleagues from the finance, sales, marketing, and digital metadata teams to create immediate and long term plans to ensure that our books were best positioned to get to readers despite store closures. My work on this team is ongoing.
 
-## Knopf Doubleday Publishing Group Internship Program
+## _Knopf Doubleday Publishing Group Internship Program_
 
-More details to come.
+For the past three years, I've been invested in the process of improving and organizing our internship program with the goal of demystifying an industry which tends to be opaque and insular. As the intern supervisor for the Doubleday marketing and publicity departments, I wanted our interns to learn about all aspects of the publishing process, not remain siloed within the departments to which they were directly assigned. I also facilitated networking opportunities in the form of informational interviews. 
+
+In 2018, the Knopf Doubleday Diversity & Inclusion Committee moved to restructure the internship program with a D&I focus and tapped me to lead the KDPG Internship Subcommittee. I am so proud of what the Subcommittee has been able to accomplish, including: 
+
+- The creation of detailed resource packets for both interns and intern supervisors to ensure that both parties feel well-informed and supported during the internship semester
+- The establishment of the KDPG Intern Orientation, a lunch event at the beginning of the semester that allows interns to learn about different jobs within the publishing industry
+- The expansion of networking opportunities such as coffee breaks with publishing professionals during the semester 
+- Working with the Penguin Random House Human Resources department to restructure the hiring process for interns to vastly diversify the candidate pool and intern cohorts
+
+## _KDPG Diversity & Inclusion Committee_
+
+Since 2018, I have been a dedicated member of the Knopf Doubleday Diversity & Inclusion Committee, a divisional group dedicated to diversifying our workforce as well as the stories we publish. Through my work with this committee, I have served as the divisional contact for corporate D&I initiatives, attended events designed to encourage conversations about D&I topics, and led the KDPG Internship Subcommittee (see above). 
