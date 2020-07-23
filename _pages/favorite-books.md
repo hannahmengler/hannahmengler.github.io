@@ -16,7 +16,7 @@ redirect_from:
 [My Year of Rest and Relaxation](https://www.goodreads.com/book/show/44279110-my-year-of-rest-and-relaxation) - Otessa Moshfegh<br>
 [Freshwater](https://www.goodreads.com/book/show/35412372-freshwater) - Akwaeke Emezi<br>
 [Less](https://www.goodreads.com/book/show/39927096-less) - Andrew Sean Greer<br>
-[Paul Takes the Form of a Mortal Girl](https://www.goodreads.com/book/show/35838277-paul-takes-the-form-of-a-mortal-girl) - Andrew Lawlor 
+[Paul Takes the Form of a Mortal Girl](https://www.goodreads.com/book/show/35838277-paul-takes-the-form-of-a-mortal-girl) - Andrea Lawlor 
 
 
 ## _All-Time Favorites_
