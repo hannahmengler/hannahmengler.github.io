@@ -19,7 +19,7 @@ I've handled the US hardcover marketing campaigns for the following titles:
 [Fortune Favors the Dead](https://www.penguinrandomhouse.com/books/646872/fortune-favors-the-dead-by-stephen-spotswood/) - Stephen Spotswood  
 [The Basic Laws of Human Stupidity](https://www.penguinrandomhouse.com/books/639356/the-basic-laws-of-human-stupidity-by-carlo-m-cipolla/) - Carlo Cipolla  
 [A Time For Mercy](https://www.penguinrandomhouse.com/books/623067/a-time-for-mercy-by-john-grisham/) - John Grisham _(as part of team)_  
-[The Man Who Ran Washington](https://www.penguinrandomhouse.com/books/253135/the-man-who-ran-washington-by-peter-baker-and-susan-glasser/) - Peter Baker and Susan Glasser _(New York Times bestseller)_ 
+[The Man Who Ran Washington](https://www.penguinrandomhouse.com/books/253135/the-man-who-ran-washington-by-peter-baker-and-susan-glasser/) - Peter Baker and Susan Glasser (New York Times bestseller)  
 [Grasp](https://www.penguinrandomhouse.com/books/546526/grasp-by-sanjay-sarma-with-luke-yoquinto/) - Sanjay Sarma with Luke Yoquinto  
 [little scratch](https://www.penguinrandomhouse.com/books/617429/little-scratch-by-rebecca-watson/) - Rebecca Watson  
 [I Give It To You](https://www.penguinrandomhouse.com/books/635764/i-give-it-to-you-by-valerie-martin/) - Valerie Martin  
