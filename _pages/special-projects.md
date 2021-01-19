@@ -17,11 +17,11 @@ author_profile: true
 
 ## _Online Sales Optimization Task Force_
 
-In the spring of 2020 I was selected to join a special task force dedicated to optimizing online book sales while bookstores were closed due to the COVID-19 pandemic. The task force brought together colleagues from the finance, sales, marketing, and digital metadata teams to create immediate and long term plans to ensure that our books were best positioned to get to readers despite store closures. My work on this team is ongoing.
+In the spring of 2020 I was selected to join a special task force dedicated to optimizing online book sales while bookstores were closed due to the COVID-19 pandemic. The task force brought together colleagues from the finance, sales, marketing, and digital metadata teams to create immediate and long term plans to ensure that our books were best positioned to get to readers despite store closures.
 
 ## _Knopf Doubleday Publishing Group Internship Program_
 
-For the past three years, I've been invested in the process of improving and organizing our internship program with the goal of demystifying an industry which tends to be opaque and insular. As the intern supervisor for the Doubleday marketing and publicity departments, I wanted our interns to learn about all aspects of the publishing process, not remain siloed within the departments to which they were directly assigned. I also facilitated networking opportunities in the form of informational interviews. 
+Since 2018, I've been invested in the process of improving and organizing our internship program with the goal of demystifying an industry which tends to be opaque and insular. As the intern supervisor for the Doubleday marketing and publicity departments, I wanted our interns to learn about all aspects of the publishing process, not remain siloed within the departments to which they were directly assigned. I also facilitated networking opportunities in the form of informational interviews. 
 
 In 2018, the Knopf Doubleday Diversity & Inclusion Committee moved to restructure the internship program with a D&I focus and tapped me to lead the KDPG Internship Subcommittee. I am so proud of what the Subcommittee has been able to accomplish, including: 
 
