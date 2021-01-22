@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "Title Marketing"
-    url: /titles/   
+  - title: "Marketing"
+    url: /marketing/   
 
-  - title: "Special Projects"
+  - title: "Writing"
     url: /projects/
-
-  - title: "Favorite Books"
-    url: /books/
 
   - title: "Resume"
     url: /resume/
