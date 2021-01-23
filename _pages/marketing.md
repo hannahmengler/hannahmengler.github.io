@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-I previously worked on title marketing for a [collection of titles]((https://hannahmengler.github.io/titles/)).
+I previously worked on title marketing for a [collection of titles](https://hannahmengler.github.io/titles/).
