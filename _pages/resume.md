@@ -12,7 +12,11 @@ redirect_from:
 
 ## Publishing Experience
 
-* **Marketing Associate**, Doubleday (New York, NY) _Fall 2019 - Present_
+* **Marketing Associate**, KDPG (New York, NY) _Winter 2021 - Present_
+  * Gather research, leverage social listening tools, and compile reports on key audiences, author platforms, consumer trends and other marketing opportunities for entire Knopf Doubleday Publishing Group.
+  * Serve as main point of contact between KDPG and the Penguin Random House corporate Consumer Insights team and coordinate to deliver up-to-date, actionable reporting.
+
+* **Marketing Associate**, Doubleday (New York, NY) _Fall 2019 - Winter 2021_
   * Develop and execute multi-faceted marketing campaigns for books across a variety of genres, including social media, influencer marketing, online and print advertising.
   * Own content marketing projects for marketing team; serve as point of contact for corporate content verticals and email marketing team.
   * Serve on Online Sales Optimization Task Force.
