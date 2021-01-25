@@ -4,8 +4,11 @@ main:
     url: /marketing/   
 
   - title: "Writing"
-    url: /projects/
+    url: /writing/
 
   - title: "Resume"
     url: /resume/
+
+  - title: "Contact"
+    url: /contact/
 
