@@ -55,6 +55,6 @@ redirect_from:
 ## Skills
 
 * French (professional working proficiency)
-* G Suite and Microsoft Office Suite
+* Microsoft Office Suite and G Suite
 * Social Media (Facebook, Instagram, Twitter, Snapchat, Pinterest)
-* Wordpress
+* Brandmark Consumer Reports, Brandwatch Audiences, SurveyMonkey, Google Analytics
