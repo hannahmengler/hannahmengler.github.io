@@ -57,4 +57,4 @@ redirect_from:
 * French (professional working proficiency)
 * Microsoft Office Suite and G Suite
 * Social Media (Facebook, Instagram, Twitter, Snapchat, Pinterest)
-* Brandmark Consumer Reports, Brandwatch Audiences, SurveyMonkey, Google Analytics
+* Brandwatch Consumer Reports, Brandwatch Audiences, SurveyMonkey, Google Analytics
