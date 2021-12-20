@@ -17,4 +17,8 @@ author_profile: true
 
 ## _Friends on the Internet_
 
-My pandemic project! I’m working on a series of essays, delivered weekly via Substack, recapping each episode of the first season of Catfish: The TV Show. In this newsletter, I explore themes of loneliness, conflict, and connection in the digital age - themes that, after the events of 2020, interest me all the more. Digressions include Barbra Streisand movies, pop punk music, true crime, and more. Subscribe [here](https://friendsontheinternet.substack.com/). 
+My weekly(ish) newsletter about the things I love, from V.C. Andrews to old Hollywood icons to kitschy interior design. Each newsletter focuses on a subject from one of three categories: “classic trash” (essays on books, movies, and television), “love letters” (to icons & inspirations), or “perfect vibes” (essays on aesthetics). Subscribe [here](https://caffeinehannah.substack.com/). 
+
+## _Friends on the Internet_
+
+My pandemic project — a series of essays, delivered weekly via Substack, recapping each episode of the first season of Catfish: The TV Show. In this newsletter, I explored themes of loneliness, conflict, and connection in the digital age - themes that, after the events of 2020, interest me all the more. Digressions include Barbra Streisand movies, pop punk music, true crime, and more. Full archives [here](https://friendsontheinternet.substack.com/). 
