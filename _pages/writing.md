@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## _Friends on the Internet_
+## _caffeinehannah's weekly brew_
 
 My weekly(ish) newsletter about the things I love, from V.C. Andrews to old Hollywood icons to kitschy interior design. Each newsletter focuses on a subject from one of three categories: “classic trash” (essays on books, movies, and television), “love letters” (to icons & inspirations), or “perfect vibes” (essays on aesthetics). Subscribe [here](https://caffeinehannah.substack.com/). 
 
