@@ -14,4 +14,4 @@ In my five years in the publishing industry, I've handled the US hardcover marke
 
 I've been writing professionally since 2015, and my words have appeared on Book Riot, Forbes.com, and the American Writers Museum blog. 
 
-You can find out more about my current, just-for-fun writing projects [here](https://hannahmengler.github.io/writing/), as well as more infromation about my [work](https://hannahmengler.github.io/marketing/), my [resume](https://hannahmengler.github.io/resume/), and [how to get in touch](https://hannahmengler.github.io/contact/). Thanks for stopping by!
+You can find out more about my current, just-for-fun writing projects [here](https://hannahmengler.github.io/writing/), as well as more information about my [work](https://hannahmengler.github.io/marketing/), my [resume](https://hannahmengler.github.io/resume/), and [how to get in touch](https://hannahmengler.github.io/contact/). Thanks for stopping by!
