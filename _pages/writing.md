@@ -15,6 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## _PopMatters_
+
+I am a regular contributor to the online pop culture journal PopMatters. Here are some of my latest essays and reviews: 
+
+[Tech-World Sexism Is the Main Character of Elizabeth Holmes Miniseries 'The Dropout'](https://www.popmatters.com/dropout-elizabeth-holmes-elizabeth-meriwether) 
+
+[Elvis Presley Was No James Dean, But 'King Creole' Proves He Could Have Been](https://www.popmatters.com/elvis-presley-king-creole-film) 
+
 ## _caffeinehannah's weekly brew_
 
 My weekly(ish) newsletter about the things I love, from V.C. Andrews to old Hollywood actors to kitschy interior design. Each newsletter focuses on a subject from one of three categories: “classic trash” (essays on books, movies, and television), “love letters” (to icons & inspirations), or “perfect vibes” (essays on aesthetics). 
